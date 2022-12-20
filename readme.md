@@ -29,7 +29,7 @@ _Personal_
 * Tips ,chat y contacto  → **[Whatsapp](https://api.whatsapp.com/send/?phone=994789999&text=Hola%20,%20me%20llamo)**
 
 
-#### Si te sirvio, picale a **Stars**, tambien puedes darle **Fork** o mandame un whatsapp y dime que podemos mejorar. ✌️
+#### Si te sirvio, picale a **Stars**, tambien puedes darle **Fork** o mandame un whatsapp y dime que puedo mejorar. ✌️
 
 ![GitHub stars](https://camo.githubusercontent.com/f2e5af8a13a51c454f94b60b78e1c90f89a98c8a337ad7799400bdfeebc70c2c/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f73746172732f44617665726d782f44617665726d783f7374796c653d736f6369616c)
 ![GitHub forks](https://camo.githubusercontent.com/1dcb1e2fee2f2725e27caae49a4f7731dcd6a9aad52af8152717741f3861bd20/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f666f726b732f44617665726d782f44617665726d783f6c6162656c3d466f726b267374796c653d736f6369616c)
