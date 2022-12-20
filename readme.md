@@ -15,8 +15,6 @@ Desde muy chico me ha apasionado la tecnología y lo que puedes crear con esta; 
 <code><img height="30" src="/img/NodeJs.png"></code>
 <code><img height="30" src="/img/MySQL-logo.png"></code>
 <code><img height="30" src="/img/MongoDB_Logo.svg.png"></code>
-
-
 <code><img height="30" src="/img/Visual.png"></code>
 <code><img height="30" src="/img/postman.png"></code>
 
