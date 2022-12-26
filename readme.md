@@ -1,4 +1,6 @@
-##  Hola! Mi Nombre es Favio 
+##  ¡Hola! , Mi Nombre es 
+
+![](img/favio.png)
 
 Soy **Estudiante de Ingeniería de Sistemas , cursando el 8° ciclo en la UNMSM** , he colaborado en diversos proyectos universitarios. Actualmente sigo en constante aprendizaje en lo que respecta a desarrollo web y espero llegar a convertirme en un **Full Stack Developer**.
 Desde muy chico me ha apasionado la tecnología y lo que puedes crear con esta; busco oportunidades para aprender , apoyar , enseñar , colaborar y **nunca parar de aprender.**
